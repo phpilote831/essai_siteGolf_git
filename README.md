@@ -1,2 +1,4 @@
 # essai_siteGolf_git
-Presentation d'un debut de site golfique
+Ce code correspond à la réalisation d'un projet de fin de formation d'intégration et de développement web. Formation de 3 mois sur les langages HTML, JavaScript, CSS, PHP et l'utilisation des bases de données. 
+Les codes et fonctions réalisées sont issues d'un processus chaotique ou apprentissage et développement se déroulaient de concert. Par conséquent, le projet n'était pas structuré dés le départ et a évolué au fil de son développement.
+Par conséquent, les class de référence pour l'instanciation des objets ne sont pas très bien définies. les structures de controle et les vues pourraient être améliorés. 
